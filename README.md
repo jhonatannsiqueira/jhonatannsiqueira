@@ -1,11 +1,9 @@
 ### Olá!! Eu sou o Jhonatan Siqueira 👋
-
 - 👨‍🎓 Cursando Bootcamp para Desenvolvedor Full Stack Java Junior pela Generation Brasil
 - 👨‍🎓 Graduando em Direito pela Universidade Paulista (UNIP) - 9º Ago/2017 a Jun/2022
 - 🕵️‍♂️ Tecnólogo em Administração pela Etec de Cotia
 - 📫 E-mail para Contato: john-nunes@outlook.com
 - 😄 Pronouns: Ele/Dele
-
 <div align="center">
   <a href="https://github.com/jhonatannsiqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatannsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
