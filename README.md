@@ -5,6 +5,11 @@
 - 📫 E-mail para Contato: john-nunes@outlook.com
 - 😄 Pronomes: Ele/Dele
 <div>
+  "Nossa maior fraqueza é desistir. O caminho mais certo para vencer é tentar mais de uma vez." - Thomas Edison
+  </div>
+
+##
+<div>
   <a href="https://github.com/jhonatannsiqueira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatannsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatannsiqueira&layout=compact&langs_count=16&theme=dark"/>
