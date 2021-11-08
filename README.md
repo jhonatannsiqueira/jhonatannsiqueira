@@ -5,6 +5,9 @@
 - 📫 E-mail para Contato: john-nunes@outlook.com
 - 😄 Pronomes: Ele/Dele
 <div>
+  
+  </div>
+<div>
   "Nossa maior fraqueza é desistir. O caminho mais certo para vencer é tentar mais de uma vez." - Thomas Edison
   </div>
 
