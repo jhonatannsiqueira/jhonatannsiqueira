@@ -15,6 +15,7 @@
 <div>
   <a href="https://github.com/jhonatannsiqueira">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatannsiqueira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img align="right" alt="Goku-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/907256028498886737/Goku_Kid_II.gif">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatannsiqueira&layout=compact&langs_count=16&theme=dark"/>
     </div>
   <div style="display: inline_block"><br>
@@ -29,7 +30,7 @@
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/907019155369263124/download20211100182439.png">
+    <img align="right" alt="Tropper-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/907019155369263124/download20211100182439.png">
     
 ##
 
