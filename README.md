@@ -30,7 +30,7 @@
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
-    <img align="right" alt="Tropper-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/907019155369263124/download20211100182439.png">
+    <img align="right" alt="Vader-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/907437418389598208/Vader.png">
     
 ##
 
