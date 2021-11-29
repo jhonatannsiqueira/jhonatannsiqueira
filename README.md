@@ -29,7 +29,7 @@
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Jhonatan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg">
-    <img align="right" alt="Goku-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/907256028498886737/Goku_Kid_II.gif">
+    <img align="right" alt="Goku-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/900126636618448957/913575117802582027/Goku_Kid.gif">
     
 ##
 
