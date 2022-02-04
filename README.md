@@ -1,5 +1,5 @@
 ### Olá!! Eu sou o Jhonatan Siqueira 👋
-- 👨‍🎓 Cursando Bootcamp para Desenvolvedor Full Stack Java Junior pela Generation Brasil
+- 👨‍🎓 Desenvolvedor Full Stack Java Junior pela Generation Brasil
 - 👨‍🎓 Graduando em Direito pela Universidade Paulista (UNIP) - 10º Ago/2017 a Jun/2022
 - 🕵️‍♂️ Tecnólogo em Administração pela Etec de Cotia
 - 📫 E-mail para Contato: john-nunes@outlook.com
