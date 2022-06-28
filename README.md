@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Jhonatan Siqueira 👋
 - 👨‍🎓 Bacharel em Direito pela Universidade Paulista (UNIP)
-- 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta - Ago/2022 a Dez/2024
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta - Ago/2022 a Dez/2024
 - 👨‍🎓 Desenvolvedor Full Stack Java Junior pela Generation Brasil
 - 🕵️‍♂️ Tecnólogo em Administração pela Etec de Cotia
 - 📫 E-mail para Contato: john-nunes@outlook.com
