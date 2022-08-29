@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Jhonatan Siqueira 👋
-- 👨‍🎓 Bacharel em Direito pela Universidade Paulista (UNIP)
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta - Ago/2022 a Dez/2024
-- 👨‍🎓 Desenvolvedor Full Stack Java Junior pela Generation Brasil
-- 🕵️‍♂️ Tecnólogo em Administração pela Etec de Cotia
+- 👨‍🎓 Desenvolvedor Full Stack Java Junior pela Generation Brasil - Nov/2021 a Fev/2022
+- 👨‍🎓 Bacharel em Direito pela Universidade Paulista (UNIP)
+- 🕵️‍♂️ Técnico em Administração pela Etec de Cotia
 - 📫 E-mail para Contato: john-nunes@outlook.com
 - 😄 Pronomes: Ele/Dele
 <div>
@@ -35,8 +35,7 @@
         
 ##
 
-<div>    
-    <a href="https://instagram.com/jhonatannsiqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
     <a href="https://www.linkedin.com/in/jhonatannsiqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
     
