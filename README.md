@@ -19,7 +19,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatannsiqueira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-    <img align="center" alt="Jhonatan-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
+  <img align="center" alt="Jhonatan-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg">
+  <img align="center" alt="Jhonatan-Python" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png">
   <img align="center" alt="Jhonatan-Spring" height="40" width="40" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
   <img align="center" alt="Jhonatan-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jhonatan-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
