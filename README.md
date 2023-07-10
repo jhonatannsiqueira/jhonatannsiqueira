@@ -30,10 +30,6 @@
   </div>
         
 ##
-
-<div>
-    <a href="https://www.linkedin.com/in/jhonatannsiqueira/" target="_blank"><img height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" target="_blank"></a>
-</div>
     
 ![Snake animation](https://github.com/jhonatannsiqueira/jhonatannsiqueira/blob/output/github-contribution-grid-snake.svg)
     
